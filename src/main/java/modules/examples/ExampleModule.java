@@ -29,7 +29,7 @@ public class ExampleModule extends ModuleImpl {
 	private String inputdelimiter_b;
 	private String outputdelimiter;
 	
-	private int someInteger = 23;
+	private int someInteger = 13;
 
 	// Main method for stand-alone execution
 	public static void main(String[] args) throws Exception {
