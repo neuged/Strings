@@ -28,6 +28,8 @@ public class ExampleModule extends ModuleImpl {
 	private String inputdelimiter_a;
 	private String inputdelimiter_b;
 	private String outputdelimiter;
+	
+	private int someInt = 13;
 
 	// Main method for stand-alone execution
 	public static void main(String[] args) throws Exception {
